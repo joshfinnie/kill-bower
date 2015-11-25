@@ -15,5 +15,32 @@
   "bugs": {
     "url": "https://github.com/joshfinnie/kill-bower/issues"
   },
-  "homepage": "https://github.com/joshfinnie/kill-bower#readme"
+  "homepage": "https://github.com/joshfinnie/kill-bower#readme",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  },
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-bootstrap-colorpicker": "https://github.com/TrackMaven/angular-bootstrap-colorpicker/archive/tm-1.0.0.tar.gz",
+    "angular-carousel": "^1.0.1",
+    "angular-once": "https://github.com/cameronmaske/angular-once/archive/priority.tar.gz",
+    "angular-route": "^1.4.8",
+    "angular-sanitize": "^1.4.8",
+    "angular-touch": "^1.4.8",
+    "angular-ui-router": "^0.2.15",
+    "browserify": "^12.0.1",
+    "d3": "^3.5.9",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1",
+    "jquery": "^2.1.4",
+    "moment": "^2.10.6",
+    "ng-infinite-scroll": "https://github.com/sroze/ngInfiniteScroll/archive/1.2.1.tar.gz",
+    "underscore": "^1.8.3"
+  }
 }
