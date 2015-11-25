@@ -11,6 +11,6 @@ gulp.task('scripts', function() {
           insertGlobals : true,
         }))
         .pipe(uglify())
-        .pipe(rename('vendors.js'))
+        .pipe(rename('vendors.min.js'))
         .pipe(gulp.dest('./lib/'))
 });
