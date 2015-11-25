@@ -1,0 +1,19 @@
+{
+  "name": "kill-bower",
+  "version": "1.0.0",
+  "description": "Experiment in installing third-party javascript libraries with Browerify instead of Bower.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshfinnie/kill-bower.git"
+  },
+  "author": "Josh Finnie <josh.finnie@trackmaven.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshfinnie/kill-bower/issues"
+  },
+  "homepage": "https://github.com/joshfinnie/kill-bower#readme"
+}
